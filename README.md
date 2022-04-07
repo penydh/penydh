@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @penydh
+- 👋 Hi, I’m Peny
 - 👀 I’m interested in data analyst 
 - 🌱 I’m currently learning python and data visualization tools
 - 💞️ I’m looking to collaborate on ...
