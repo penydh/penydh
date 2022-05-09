@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Peny
-- 👀 I’m interested in data analyst 
-- 🌱 I’m currently learning python and data visualization tools
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a newbie for data enthusiast and interested in data analyst 
+- 💞️ I’m currently learning data visualization tools such as Tableau and Google Data Studio, and try to learn Python
+- 🌱 Let's see my portfolio!!
+- 
+
 
 <!---
 penydh/penydh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
